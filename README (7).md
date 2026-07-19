@@ -15,8 +15,6 @@
 ![Python](https://img.shields.io/badge/PYTHON-1A1A1A?style=flat-square&logo=python&logoColor=E8D5B7)
 ![Java](https://img.shields.io/badge/JAVA-1A1A1A?style=flat-square&logo=openjdk&logoColor=E8D5B7)
 ![C](https://img.shields.io/badge/C-1A1A1A?style=flat-square&logo=c&logoColor=E8D5B7)
-![React](https://img.shields.io/badge/REACT-1A1A1A?style=flat-square&logo=react&logoColor=E8D5B7)
-![Tailwind](https://img.shields.io/badge/TAILWIND-1A1A1A?style=flat-square&logo=tailwindcss&logoColor=E8D5B7)
 ![Firebase](https://img.shields.io/badge/FIREBASE-1A1A1A?style=flat-square&logo=firebase&logoColor=E8D5B7)
 ![SQL](https://img.shields.io/badge/SQL-1A1A1A?style=flat-square&logo=oracle&logoColor=E8D5B7)
 ![Figma](https://img.shields.io/badge/FIGMA-1A1A1A?style=flat-square&logo=figma&logoColor=E8D5B7)
