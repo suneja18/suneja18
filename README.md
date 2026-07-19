@@ -15,6 +15,8 @@
 ![Python](https://img.shields.io/badge/PYTHON-1A1A1A?style=flat-square&logo=python&logoColor=E8D5B7)
 ![Java](https://img.shields.io/badge/JAVA-1A1A1A?style=flat-square&logo=openjdk&logoColor=E8D5B7)
 ![C](https://img.shields.io/badge/C-1A1A1A?style=flat-square&logo=c&logoColor=E8D5B7)
+![C++](https://img.shields.io/badge/C%2B%2B-1A1A1A?style=flat-square&logo=cplusplus&logoColor=E8D5B7)
+![Kotlin](https://img.shields.io/badge/KOTLIN-1A1A1A?style=flat-square&logo=kotlin&logoColor=E8D5B7)
 ![Firebase](https://img.shields.io/badge/FIREBASE-1A1A1A?style=flat-square&logo=firebase&logoColor=E8D5B7)
 ![SQL](https://img.shields.io/badge/SQL-1A1A1A?style=flat-square&logo=oracle&logoColor=E8D5B7)
 ![Figma](https://img.shields.io/badge/FIGMA-1A1A1A?style=flat-square&logo=figma&logoColor=E8D5B7)
@@ -27,14 +29,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=suneja18&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1A1A1A&title_color=E8D5B7&text_color=D4C4A8&icon_color=E8D5B7" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=suneja18&theme=gruvbox&hide_border=true&background=1A1A1A&stroke=E8D5B7&ring=E8D5B7&fire=E8D5B7&currStreakLabel=E8D5B7" width="48%" />
-
-</div>
-
-### `~/metrics`
-
-<div align="center">
-
-<img src="./metrics.classic.svg" alt="classic stats" width="90%" />
 
 </div>
 
@@ -63,4 +57,3 @@
 ```
 
 </div>
-
