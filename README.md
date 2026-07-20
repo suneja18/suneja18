@@ -4,9 +4,6 @@
 
 </div>
 
-### `~/projects`
-
-- **AgriPulse** — IoT onion storage monitor (Arduino, DHT-11, MQ-135, Firebase) — 2nd place @ Tech Nirman 1.0
 
 ### `~/stack`
 
