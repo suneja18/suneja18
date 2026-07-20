@@ -23,14 +23,6 @@
 
 </div>
 
-### `~/stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=suneja18&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1A1A1A&title_color=E8D5B7&text_color=D4C4A8&icon_color=E8D5B7" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suneja18&theme=gruvbox&hide_border=true&background=1A1A1A&stroke=E8D5B7&ring=E8D5B7&fire=E8D5B7&currStreakLabel=E8D5B7" width="48%" />
-
-</div>
 
 ### `~/commit-calendar`
 
