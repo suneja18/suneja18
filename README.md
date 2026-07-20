@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./system_log.png" alt="system.log" width="90%" />
+<img src="./system_log_final.png" alt="system.log" width="90%" />
 
 </div>
 
